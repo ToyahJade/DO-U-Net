@@ -6,7 +6,11 @@ DO-U-Net is a Neural Network approach for the segmentation and counting of objec
 
 DO-U-Net is an effective approach for when the size of an object needs to be known, as well as the number of objects in the image. DO-U-Net segments closely co-located and overlapping objects successfully, making it a worthy choice when objects are close by and/or overlapping in images. By segmenting images, we are also able to know the exact location of the segmented objects, which can prove extremely useful when looking at, for example, satellite imagery.
 
-The open-access paper which first described DO-U-Net can be found [here](https://doi.org/10.1007/978-3-030-44584-3_31). See also the [IDA 2020 conference website](https://ida2020.org/).
+The open-access paper which first described DO-U-Net can be found [here](https://doi.org/10.1007/978-3-030-44584-3_31). See also the [IDA 2020 conference website](https://ida2020.org/), and the short [video presentation](http://videolectures.net/IDA2020_overton_do_u_net/).
+
+<a href='http://videolectures.net/IDA2020_overton_do_u_net/'>
+  <img src='http://videolectures.net/IDA2020_overton_do_u_net/thumb.jpg' border=0/">
+  <br/>Video Presentation: DO-U-Net for Segmentation and Counting</a><br/>
 
 ## Introduction 
 
